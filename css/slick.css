@@ -116,8 +116,8 @@
     display: none;
 }
 
-@charset 'UTF-8';
 /* Slider */
+@charset "UTF-8";
 .slick-loading .slick-list
 {
     background: #fff url('../images/ajax-loader.gif') center center no-repeat;
